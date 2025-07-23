@@ -34,7 +34,7 @@ Before running the example, ensure your system is properly configured:
 
 1. **System Requirements**: Follow the system setup instructions at: https://github.com/truenomad/AgePopDenom
 
-2. **R Environment**: This repository uses `renv` for dependency management. You must work within the provided RStudio project. run `renv::restore()` once environment is activated.
+2. **R Environment**: This repository uses `renv` for dependency management. You must work within the provided RStudio project. run `renv::restore(confirm = FALSE)` once environment is activated.
 
 ### Installation and Setup
 

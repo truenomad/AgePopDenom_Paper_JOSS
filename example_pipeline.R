@@ -1,8 +1,3 @@
-# Get Package ------------------------------------------------------------------
-
-# install package
-# install.packages("AgePopDenom")
-
 # Working directory ------------------------------------------------------------
 
 # set working directory based on script location if not using an R project
