@@ -1,0 +1,24 @@
+# renv
+renv/library/
+renv/python/
+renv/staging/
+
+# keep these files
+!renv/settings.json
+!renv/.renvignore
+!renv/activate.R
+!renv.lock
+
+# quarto
+.quarto/
+_site/
+
+# r
+.rhistory
+.rdata
+.httr-oauth
+
+# python
+__pycache__/
+*.pyc
+*.pyo
