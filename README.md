@@ -17,11 +17,10 @@ The package models age distributions using a Gamma distribution framework with b
 
 ## Repository Contents
 
-- **`paper/`** - Contains the JOSS paper manuscript and associated files
-  - `paper.md` - Main manuscript file
-  - `references.bib` - Bibliography
-  - `paper.html` - Rendered HTML version
-  - `schematic_figure_final.png/.html` - Workflow diagram
+- `paper.md` - Main JOSS manuscript file
+- `references.bib` - Bibliography
+- `paper.html` - Rendered HTML version
+- `schematic_figure_final.png/.html` - Workflow diagram
 - **`example_pipeline.R`** - Complete example demonstrating package functionality
 - **`renv.lock`** - renv lockfile with package dependencies
 - **`AgePopDenom_Paper_JOSS.Rproj`** - RStudio Project file
